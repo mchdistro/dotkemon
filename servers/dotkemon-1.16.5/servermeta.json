@@ -1,0 +1,27 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/dotkemon/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "돗켓몬",
+    "description": "Minecraft 1.16.5 (Forge v36.2.42)",
+    "icon": "https://github.com/mchdistro/dotkemon/raw/main/server-icon.png",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": false,
+    "javaOptions": { "ram": { "minimum": 4096, "recommended": 6144 } }
+  },
+  "forge": {
+    "version": "36.2.42"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["servers.dat", "options.txt", "optionsshaders.txt", "config/voicechat/voicechat-client.properties"]
+    }
+  ]
+}
