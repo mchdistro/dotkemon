@@ -1,4 +1,5 @@
 version:2586
+gamma:1.0
 guiScale:2
 resourcePacks:["vanilla","mod_resources","file/픽셀몬스터디리소스팩.zip","CustomShopHUDResourcePack","CustomShopResourcePack"]
 lang:ko_kr
