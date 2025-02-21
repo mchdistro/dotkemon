@@ -25,7 +25,7 @@
       "javaOptions": {
         "ram": {
           "minimum": 4096,
-          "recommended": 6144
+          "recommended": 8192
         }
       },
       "modules": [

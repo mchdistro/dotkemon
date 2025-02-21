@@ -13,7 +13,7 @@
     },
     "mainServer": true,
     "autoconnect": true,
-    "javaOptions": { "ram": { "minimum": 4096, "recommended": 6144 } }
+    "javaOptions": { "ram": { "minimum": 4096, "recommended": 8192 } }
   },
   "forge": {
     "version": "36.2.42"
